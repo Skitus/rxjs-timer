@@ -5,4 +5,4 @@ Stack
 - scss
 
 link to vercell
-https://vercel.com/timerrxjs/rxjs-timer
+https://rxjs-timer.vercel.app/
